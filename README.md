@@ -34,7 +34,7 @@ Then run kdoctor to see the requirements:
 
 Let’s provide these requirement step by step
 
-**Java**
+### **Java**
 
 To download java JDK visit this address: [https://www.oracle.com/java/technologies/downloads/](https://www.oracle.com/java/technologies/downloads/)
 
@@ -42,11 +42,11 @@ Make sure to download the version that is compatible with your CPU Architecture.
 
 Apple silicon machines should use arm64 versions. Intel machines need x64
 
-**Xcode**
+### **Xcode**
 
 Download Xcode from the mac App Store. It’s free and after download, it gets installed automatically.
 
-**Cocoapods**
+### **Cocoapods**
 
 Before installing cocoapods, you must install the compatible version of ruby with KMM.
 
@@ -72,7 +72,7 @@ Then for installing cocoapods just write this command
 brew install cocoapods
 ```
 
-**Android Studio**
+### **Android Studio**
 
 For downloading android studio you can visit [https://developer.android.com/studio](https://developer.android.com/studio)
 
@@ -96,7 +96,7 @@ chmod +x gradlew
 
 2. BUILD FAILED shared module not found or Greeting not available in scope when using cocoapods as framework instead of regular framework. until now (1 feb 2023) compatible ruby version for KMM is 2.7 and cocoapods 1.11.3. Refer to the ruby installation in this document and install compatible ruby version
 
-**Additional Resources**
+### **Additional Resources**
 
 [Install Ruby on Your Mac: Everything You Need to Get Going](https://stackify.com/install-ruby-on-your-mac-everything-you-need-to-get-going/)
 
